@@ -1,7 +1,19 @@
 {
-  "name": "DNa",
-  "title": "DNa — Royal Formula",
-  "op":  [ { "num": 1, "w": "𐏐𐎭𐎠𐎼𐎹𐎺𐎢𐏁" }, { "num": 2, "w": "𐎧𐏁𐎠𐎹𐎰𐎡𐎹" }, { "num": 3, "w": "𐎠𐎼𐎢𐎶𐎺𐎭𐎠" } ],
-  "trl": [ { "num": 1, "w": "Dārayavauš" },           { "num": 2, "w": "xšāyaθiya" },            { "num": 3, "w": "Auramazdā" } ],
-  "trc": [ { "num": 1, "w": "D-ā-ra-ya-vauš" },       { "num": 2, "w": "x-š-ā-ya-θi-ya" },       { "num": 3, "w": "Au-ra-maz-dā" } ]
+  "Name": "DNa",
+  "Content": [
+    {
+      "NUM": 1,
+      "OP": "𐎭𐎡𐎴𐎠",
+      "Transliteration": "Dârayavauš",
+      "Transcription": "Darius",
+      "Translation": "Darius the King"
+    },
+    {
+      "NUM": 2,
+      "OP": "𐎧𐏁𐎠𐎹𐎫𐎡𐎹",
+      "Transliteration": "xšāyaθiya",
+      "Transcription": "king",
+      "Translation": "the king"
+    }
+  ]
 }
