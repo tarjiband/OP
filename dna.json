@@ -1,19 +1,37 @@
-{
-  "Name": "DNa",
-  "Content": [
-    {
-      "NUM": 1,
-      "OP": "𐎭𐎡𐎴𐎠",
-      "Transliteration": "Dârayavauš",
-      "Transcription": "Darius",
-      "Translation": "Darius the King"
-    },
-    {
-      "NUM": 2,
-      "OP": "𐎧𐏁𐎠𐎹𐎫𐎡𐎹",
-      "Transliteration": "xšāyaθiya",
-      "Transcription": "king",
-      "Translation": "the king"
-    }
-  ]
-}
+[
+  {
+    "Name": "DNa",
+    "NUM": 1,
+    "OP": "𐎭𐎡𐎴𐎠",
+    "Transliteration": "Dârayavauš",
+    "Translation": "Darius the King"
+  },
+  {
+    "Name": "DNa",
+    "NUM": 2,
+    "OP": "𐎧𐏁𐎠𐎹𐎫𐎡𐎹",
+    "Transliteration": "xšāyaθiya",
+    "Translation": "the king"
+  },
+  {
+    "Name": "DNa",
+    "NUM": 3,
+    "OP": "𐎧𐏁",
+    "Transliteration": "xša-",
+    "Translation": "rule"
+  },
+  {
+    "Name": "DBa",
+    "NUM": 1,
+    "OP": "𐎠𐎭𐎼𐎡𐎹",
+    "Transliteration": "Artaxšaçâ",
+    "Translation": "Artaxerxes"
+  },
+  {
+    "Name": "DBa",
+    "NUM": 2,
+    "OP": "𐎧𐏁𐎠𐎹𐎫𐎡𐎹",
+    "Transliteration": "xšāyaθiya",
+    "Translation": "the king"
+  }
+]
